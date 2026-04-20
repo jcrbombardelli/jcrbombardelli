@@ -1,4 +1,4 @@
-<a href=linkedin.com/in/jacir-bombardelli-41553820>LinkedIn</a>
+<a href=https://www.linkedin.com/in/jacir-bombardelli-41553820/>LinkedIn</a>
 
 - 👋 Hi, I’m @jcrbombardelli
 - 👀 I’m interested in restfull Spring, Flutter, Dart, Oracle, Senior Sistemas 
