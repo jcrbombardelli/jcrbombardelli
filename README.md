@@ -1,3 +1,5 @@
+linkedin.com/in/jacir-bombardelli-41553820
+
 - 👋 Hi, I’m @jcrbombardelli
 - 👀 I’m interested in restfull Spring, Flutter, Dart, Oracle, Senior Sistemas 
 - 🌱 I’m currently learning ...
